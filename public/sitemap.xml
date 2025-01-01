@@ -1,11 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!-- Commit on 2025-01-01 -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.example.com/foo.html</loc>
-    <lastmod>2022-06-04</lastmod>
-  </url>
-  <url>
-    <loc>https://www.example.com/bar.html</loc>
-    <lastmod>2022-06-05</lastmod>
+    <loc>https://example.com/page-2025-01-01</loc>
+    <lastmod>2025-01-01</lastmod>
   </url>
 </urlset>
